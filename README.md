@@ -1,5 +1,4 @@
 Guess The Word
-Video:  <https://youtu.be/zBRL0J3iDtA>
 # Description:
 
 The condept of my project is to basically guess the word inspired by the game wordle.
